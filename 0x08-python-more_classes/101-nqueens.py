@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 101-nqueens.py
-# Yitagesu K Areda
 """Solves the N-queens puzzle.
 
 Determines all possible solutions to placing N
