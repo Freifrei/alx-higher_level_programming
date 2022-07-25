@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # 101-nqueens.py
+# Freweyni Gebremedhin
 """Solves the N-queens puzzle.
 
 Determines all possible solutions to placing N
