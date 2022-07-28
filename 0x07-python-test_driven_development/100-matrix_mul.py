@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-matrix_mul.py
-# Yitagesu K Areda
+# Freweyni Gebremedhin
 """Defines a matrix multiplication function."""
 
 
