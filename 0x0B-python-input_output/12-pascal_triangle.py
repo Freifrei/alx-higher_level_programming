@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 12-pascal_triangle.py
-# Yitagesu K Areda
+# Freweyni Gebremedhin
 """Defines a Pascal's Triangle function."""
 
 
