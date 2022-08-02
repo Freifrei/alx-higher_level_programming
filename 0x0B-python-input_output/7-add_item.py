@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 7-add_item.py
-# Yitagesu K Areda
+# Freweyni Gebremedhin
 """Add all arguments to a Python list and save them to a file."""
 import sys
 
