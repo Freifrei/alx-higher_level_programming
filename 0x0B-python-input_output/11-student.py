@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 11-student.py
-# Yitagesu K Areda
+# Freweyni Gebremedhin
 """Defines a class Student."""
 
 
