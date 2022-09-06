@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-append_after.py
-# Yitagesu K Areda
+# Freweyni Gebremedhin
 """Defines a text file insertion function."""
 
 
